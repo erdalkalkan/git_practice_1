@@ -4,5 +4,7 @@ public class HelloWorld {
         System.out.println("Hello World!");
 
         //Work1 is done
+
+        //Work2 is done. Type someting
     }
 }
